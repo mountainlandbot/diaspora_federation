@@ -131,7 +131,7 @@ GEM
       pry (~> 0.10)
     pry-debundle (0.8)
       pry
-    rack (1.6.4)
+    rack (1.6.13)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.3)
